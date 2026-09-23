@@ -1,4 +1,4 @@
-## Zune-QOI
+## Eliceo García 
 
 A quite OK Image Decoder and encoder.
 
